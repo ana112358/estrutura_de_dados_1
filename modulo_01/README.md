@@ -25,3 +25,29 @@ Todo endereço de memória(ponteiro) ocupa 8bytes de memória.
     }
 ```
 O NULL significa dizer que não está apontando para lugar nenhum.
+
+
+## Tipos abstratos de dados
+
+### O que são?
+
+Especificação + implementação
+
+- Especificação (arquivo de cabeçalho .h)
+    Sintaxe () - Assinatura 
+    Semântica 
+
+- Implementação (arquivo .c)
+    Representação (Estrutura de dados, int , float ou outra estrutura)
+    Agoritmo (Como vai ser implementado?)
+
+Os programas ou outras TADs que utilizam seu TAD devem incluir sua especificação : #include "seu_tad.h"
+
+Quando colocamos a estpecificação ` #include <stdio.h>` estamos incluindo uma especificação que foi incluida quando baixamo o C no computador
+
+
+
+
+
+
+
